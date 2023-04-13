@@ -1,0 +1,43 @@
+.top {
+    display: flex;
+    height: 150px;
+}
+
+.left {
+    float: left;
+    width: 100px;
+    height: 50px;
+}
+
+.right {
+    display: flex; 
+    text-align: center; 
+    float: right;
+    left: 720px; 
+    width: 60px; 
+    height: 20px; 
+    position: relative;
+    
+}
+.google {
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: 500px;
+    height: 170px;
+}
+
+.search {
+    margin-left: 300px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: 600px;
+}
+
+.item {
+    margin-left: 210px;
+  
+}
+
